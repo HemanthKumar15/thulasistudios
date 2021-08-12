@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.re{
+    margin-left: 2vw;
+    margin-top: 2vw;
+    text-align: center;
+    font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+.cardcontainer {
+    display:  flex;
+    flex-direction: row;
+    
+
+}
+.row{
+    justify-content: center;
+}
+.card{
+    
+    margin :  1vw ;
+
+}
+.center-text{
+    padding: 3vh;
+    
+}
+.heads{
+    color: #198754;
+    
+}
+.content{
+    margin: 0px;
+    
+}
+p{
+    text-align: center;
+}
+li{
+    text-align: center;
+    list-style: none;
+}
